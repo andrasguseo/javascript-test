@@ -1,2 +1,5 @@
 alert('file included');
-var incl = "This is a variable";
+
+function returningSomething() {
+  return "This is a variable";
+}
