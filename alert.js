@@ -1,3 +1,5 @@
+var h = 'testing';
+
 (function first() {
     'use strict';
 
